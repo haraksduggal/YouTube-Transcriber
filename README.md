@@ -68,11 +68,6 @@ A PDF will be generated in the current folder, titled after the video.
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 ## 🤝 Contributing
 
